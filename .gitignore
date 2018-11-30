@@ -20,11 +20,9 @@
 cscope.out
 ctags
 /aclocal.m4
-/wayland-scanner.m4
 /autom4te.cache
 /compile
 /config.guess
-/config.h
 /config.h.in
 /config.log
 /config.mk
@@ -45,4 +43,3 @@ exec-fd-leak-checker
 fixed-benchmark
 /wayland-egl-abi-check
 /wayland-scanner
-protocol/*.[ch]
